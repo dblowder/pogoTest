@@ -1,6 +1,11 @@
 {
-  "name": "ostk-pogo-raid-bot",
-  "private": true,
-  "author": "idle",
-  "text": "LVL 5 Raid Hatching Soon"
+  "posts": [
+    {
+      "id": 1,
+  	"text": "LVL 5 Raid Hatching Soon"
+    }
+  ],
+  "profile": {
+    "name": "ostk-pogo-raid-bot"
+  }
 }
