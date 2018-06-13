@@ -2,6 +2,7 @@
   "posts": [
     {
       "id": 1,
+      "private": false,
   	"text": "LVL 5 Raid Hatching Soon"
     }
   ],
