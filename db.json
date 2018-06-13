@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-  	"text": "LVL 5 Raid Hatching Soon"
+  	  payload={"text": "LVL 5 Raid Hatching Soon"}
     }
   ],
   "profile": {
