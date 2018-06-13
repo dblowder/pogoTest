@@ -2,9 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "private": false,
-      "hatch-time": "",
-  	"text": "LVL 5 Raid Hatching Soon"
+      "response_type": "in_channel",
+      "text": "LVL 5 Raid Hatching Soon"
     }
   ],
   "profile": {
