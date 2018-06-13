@@ -3,8 +3,29 @@
     {
       "id": 1,
       "response_type": "in_channel",
+      "text": "LVL 1 Raid Hatching Soon"
+    },
+        {
+      "id": 2,
+      "response_type": "in_channel",
+      "text": "LVL 2 Raid Hatching Soon"
+    },
+        {
+      "id": 3,
+      "response_type": "in_channel",
+      "text": "LVL 3 Raid Hatching Soon"
+    },
+        {
+      "id": 4,
+      "response_type": "in_channel",
+      "text": "LVL 4 Raid Hatching Soon"
+    },
+        {
+      "id": 5,
+      "response_type": "in_channel",
       "text": "LVL 5 Raid Hatching Soon"
     }
+    
   ],
   "profile": {
     "name": "ostk-pogo-raid-bot"
