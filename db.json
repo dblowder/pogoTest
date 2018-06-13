@@ -1,8 +1,8 @@
-{
+payload={
   "posts": [
     {
       "id": 1,
-  	  payload={"text": "LVL 5 Raid Hatching Soon"}
+  	  "text": "LVL 5 Raid Hatching Soon"
     }
   ],
   "profile": {
